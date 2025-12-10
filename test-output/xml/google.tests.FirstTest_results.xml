@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PlaywrightJavaPOM"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="15,071">
+    <properties></properties>
+
+
+
+            <testcase
+                name="firstTest"
+                time="15,071"
+                classname="google.tests.FirstTest">
+            </testcase>
+</testsuite>
