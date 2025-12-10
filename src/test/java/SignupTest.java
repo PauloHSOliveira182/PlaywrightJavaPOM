@@ -20,7 +20,7 @@ public class SignupTest extends PlaywrightRunner {
         homePage.navigateToSig();
         accountNavigationPage.sigInOption(AccountEntries.SIGN_IN);
         createAccountPage.createAccount();
-sagasga 
+
 
     }
 
